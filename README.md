@@ -8,21 +8,10 @@ REMEMBER TO "COMMIT" YOUR CHANGES REGULARLY TO SHOW HOW YOU HAVE BUILT THIS PROJ
 
 # Project Notes
 
-> You can use this section of the file to keep notes about your project as you work on it
+I browsed through several travel sites as inspiration for my project to fit the clients needs. I grew up in London so I wanted to show what you should do in London when you visit and how you need to plan your trip. I created a contact page that works well to fulfil any clients needs.  
 
 # Project Summary
 
-> Before the final submission date you should include a "PROJECT SUMMARY" in this section here.
-> # Project Notes
-
-> You can use this section of the file to keep notes about your project as you work on it
-I browsed through several travel sites as inspiration for my project to fit the clients needs. 
-I grew up in London so I wanted to show what you should do in London when you visit and how you need to plan your trip.
-I created a contact page that works well to fulfil any clients needs. 
-
-# Project Summary
-
-> Before the final submission date you should include a "PROJECT SUMMARY" in this section here.
 My project was a multi page travel guide about London. As i said in the notes above I am from there and i wanted to show the client/clients what is the best things to do.
 My project includes a Index page with the purpose of exploring and planning a trip to London. 
 
